@@ -1,4 +1,4 @@
-```python
+
 import random
 
 number = random.randint(1, 100)
@@ -28,4 +28,3 @@ while True:
         print("Congratulations! You guessed it!")
         print("Attempts:", attempts)
         break
-```
