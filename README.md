@@ -56,7 +56,7 @@ Number-Guessing-Game/
 
 ## 👩‍💻 Author
 
-Madhuri
+GitHub: https://github.com/madhurin2617-star
 
 
 ---
